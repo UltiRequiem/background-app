@@ -1,13 +1,6 @@
 # Random Background App
 
-Every time you tap the screen the background color changes.
-
-This is very simple because it is my React Native Hello World.
-
-## React Native Web
-
-Yoou can see a live demo on:
-https://random-background-app.netlify.app
+Every time you tap the screen the background changes.
 
 Thanks to [necolas/react-native-web](https://github.com/necolas/react-native-web) :)
 
