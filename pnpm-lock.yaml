@@ -11708,8 +11708,8 @@ packages:
       - vue-template-compiler
     dev: true
 
-  /react-devtools-core@4.23.0:
-    resolution: {integrity: sha512-KkzneT1LczFtebbTJlvRphIRvzuHLhI9ghfrseVv9ktBs+l2cXy8Svw5U16lzQnwU9okVEcURmGPgH79WWrlaw==}
+  /react-devtools-core@4.28.4:
+    resolution: {integrity: sha512-IUZKLv3CimeM07G3vX4H4loxVpByrzq3HvfTX7v9migalwvLs9ZY5D3S3pKR33U+GguYfBBdMMZyToFhsSE/iQ==}
     dependencies:
       shell-quote: 1.7.3
       ws: 7.5.7
@@ -14465,7 +14465,7 @@ packages:
       promise: 8.1.0
       prop-types: 15.8.1
       react: 16.13.1
-      react-devtools-core: 4.23.0
+      react-devtools-core: 4.28.4
       react-refresh: 0.4.3
       regenerator-runtime: 0.13.9
       scheduler: 0.19.1
